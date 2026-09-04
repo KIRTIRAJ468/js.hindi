@@ -1,7 +1,7 @@
-let isLoggedIn = true;
+"use strict"; // treat all js code as newer version
 
-if (isLoggedIn) {
-    console.log("Welcome!");
-} else {
-    console.log("Please log in.");
-}
+// alert(3+3) // we are using nodejs, not browser
+
+console.log(3+3)
+
+console.log("hitesh")
